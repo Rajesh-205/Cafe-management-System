@@ -1,18 +1,18 @@
-# Dice Roller
+# ☕ Cafe Management System
 
 ## 📌 Description
-A simple Python program that simulates rolling a dice and generates a random number between 1 and 6.
+A Python program to manage cafe orders and calculate the total bill.
 
 ## 🚀 Features
-- Generates random dice values
-- Easy to use
-- Interactive output
+- Display menu
+- Take orders
+- Calculate total cost
 
-## 🛠️ Technologies Used
-- Python (random module)
+## 🛠️ Tech Used
+- Python
 
 ## ▶️ How to Run
 python main.py
 
 ## 👨‍💻 Author
-RAJESH BARIK
+Rajesh Barik
